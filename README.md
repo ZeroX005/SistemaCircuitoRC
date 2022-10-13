@@ -1,11 +1,12 @@
 # SistemaCircuitoRC
 Aplicativo para calcular la carga e intensidad de corriente en función del tiempo para un circuito resistencia - capacitor y mostrar el procedimiento del desarrollo
 
-<img width="955" alt="1" src="https://user-images.githubusercontent.com/85837821/195522549-3d258c33-ff20-4a2a-8296-c2f25cc0deac.png">
-![2](https://user-images.githubusercontent.com/85837821/195522553-b03e072c-e8e8-430a-87e7-db9bcc387215.png)
-![3](https://user-images.githubusercontent.com/85837821/195522554-df7dd2f0-f51a-44c2-9be6-3eccbd88e791.png)
-![4](https://user-images.githubusercontent.com/85837821/195522556-793885cb-c18a-4d88-b748-d14c51eb6d73.png)
-![5](https://user-images.githubusercontent.com/85837821/195522559-916d3c52-7735-471c-8be8-a7f4666c877a.png)
+<img width="955" alt="1" src="https://user-images.githubusercontent.com/85837821/195523613-f1051063-1a3c-451a-bfb8-f81db73766f1.png">
+<img width="339" alt="2" src="https://user-images.githubusercontent.com/85837821/195523621-c8483bd0-d2bb-4c26-a78c-0982b0fc2af8.png">
+<img width="339" alt="3" src="https://user-images.githubusercontent.com/85837821/195523623-2e3253f0-aeba-4701-baa4-8a64f448a35e.png">
+<img width="242" alt="4" src="https://user-images.githubusercontent.com/85837821/195523624-5f3a4c2d-4803-4bb8-aab4-984a6e464302.png">
+<img width="129" alt="5" src="https://user-images.githubusercontent.com/85837821/195523628-4104e945-6bdb-41be-af60-a8335862d248.png">
+
 
 
 
